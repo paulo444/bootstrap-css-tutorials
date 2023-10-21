@@ -1,2 +1,2 @@
 # bootstrap-tutorials
-Bootstrap Tutorials created for my channel (ElAbrigoDePaulo).
+Bootstrap and CSS Tutorials created for my channel (ElAbrigoDePaulo).
