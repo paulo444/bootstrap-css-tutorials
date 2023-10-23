@@ -1,0 +1,33 @@
+.grass{
+    height: 2000px;
+    background-color: #014101;
+}
+
+.another-grass{
+    height: 2000px;
+    background-color: #036c03;
+}
+
+.pumpkin-1{
+    position: sticky;
+    top: 30px;
+    left: 30px;
+}
+
+.pumpkin-2{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+
+.pumpkin-3{
+    position: static;
+}
+
+.pumpkin-4{
+    position: fixed;
+}
+
+.pumpkin-5{
+    position: relative;
+}

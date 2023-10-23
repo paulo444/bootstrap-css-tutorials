@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(74, 156, 74);
+}
+
+.pumpkin{
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(1, 36, 8);
+}
